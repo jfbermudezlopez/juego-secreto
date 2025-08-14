@@ -3,3 +3,5 @@
 - Estado del proyecto: Terminado
 
   ````npm installer react````
+
+Proximamente mas actualizaciones
